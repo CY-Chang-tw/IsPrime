@@ -1,0 +1,3 @@
+C:/Users/Owen/CLionProjects/LeetCode/IsPrime/cmake-build-debug/CMakeFiles/IsPrime.dir
+C:/Users/Owen/CLionProjects/LeetCode/IsPrime/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Owen/CLionProjects/LeetCode/IsPrime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
